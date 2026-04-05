@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<Row Type="TRAIT_PUEBLOANS_JEC_ABILITY" Kind="KIND_TRAIT"/>
+	</Types>
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" AITargetCityPercentage="50" Name="LOC_CIVILIZATION_PUEBLOANS_JEC_NAME" FullName="LOC_CIVILIZATION_PUEBLOANS_JEC_FULLNAME" Description="LOC_CIVILIZATION_PUEBLOANS_JEC_DESCRIPTION" Adjective="LOC_CIVILIZATION_PUEBLOANS_JEC_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" UniqueCultureProgressionTree="TREE_CIVICS_AQ_PUEBLOANS_JEC" CapitalName="LOC_CITY_NAME_PUEBLOANS_JEC1" RandomCityNameDepth="10" />	
+	</Civilizations>
+	<CivilizationFavoredWonders>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" FavoredWonderType="WONDER_BAWHAWGYI_PAGODA" FavoredWonderName="LOC_WONDER_BAWHAWGYI_PAGODA_NAME"/>
+	</CivilizationFavoredWonders>
+	<Modifiers/>
+	<ModifierArguments/>
+	<ModifierStrings/>
+	<Traits>
+		<Row TraitType="TRAIT_PUEBLOANS_JEC_ABILITY" Name="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME" Description="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_DESCRIPTION" InternalOnly="true"/>
+	</Traits>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_PUEBLOANS_JEC_ABILITY" ModifierId="TRAIT_MOD_THAYEKHITTAYA_TOWN_UPGRADE_DISCOUNT"/>				
+	</TraitModifiers>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_ANTIQUITY_CIV"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_PUEBLOANS_JEC"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_PUEBLOANS_JEC_ABILITY"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
+	</CivilizationTraits>
+	<LeaderCivPriorities>
+		<!--This is the table used for AI, the UI uses LeaderCivilizationBias in config.xml-->
+		<Row Leader="LEADER_ASHOKA" Civilization="CIVILIZATION_PUEBLOANS_JEC" Priority="2"/>
+		<Row Leader="LEADER_TRUNG_TRAC" Civilization="CIVILIZATION_PUEBLOANS_JEC" Priority="2"/>
+	</LeaderCivPriorities>
+	<CityNames>
+		<!--PYU-->
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC1"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC2"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC3"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC4"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC5"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC6"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC7"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC8"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC9"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC10"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC11"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC12"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC13"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC14"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC15"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC16"/>
+	</CityNames>
+	<StartBiasBiomes>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BiomeType="BIOME_TROPICAL" Score="20"/>
+	</StartBiasBiomes>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="20"/>
+	</StartBiasTerrains>
+	<VisArt_CivilizationBuildingCultures>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BuildingCulture="BUILDING_CULTURE_PAC"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BuildingCulture="ANT_STONE"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BuildingCulture="EXP_STONE"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BuildingCulture="MOD_STONE"/>
+	</VisArt_CivilizationBuildingCultures>
+	<VisArt_CivilizationUnitCultures>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" UnitCulture="Afr"/>
+	</VisArt_CivilizationUnitCultures>
+</Database>

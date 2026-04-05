@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<AiComponents>
+	</AiComponents>
+	<AiDefinitions>
+	</AiDefinitions>
+	<OpTeamRequirements>
+	</OpTeamRequirements>
+	<PseudoYields>
+	</PseudoYields>
+	<AiListTypes>
+		<!-- Pyu -->
+		<Row ListType="Pyu Unit Biases"/>
+		<Row ListType="Pyu Government Bias"/>
+		<Row ListType="Pyu Constructibles Biases" />
+		<Row ListType="Pyu Budget Biases" />
+		<Row ListType="Pyu PseudoYield Biases" />
+		<Row ListType="Pyu Tag Biases"/>
+	</AiListTypes>
+	<AiLists>
+		<!-- Pyu -->
+		<Row ListType="Pyu Unit Biases" LeaderType="TRAIT_PYU_JEC" System="UnitBiases"/>
+		<Row ListType="Pyu Government Bias" LeaderType="TRAIT_PYU_JEC" System="GovernmentBiases"/>
+		<Row ListType="Pyu Constructibles Biases" LeaderType="TRAIT_PYU_JEC" System="ConstructibleBiases" />	
+		<Row ListType="Pyu Budget Biases" LeaderType="TRAIT_PYU_JEC" System="AiBudgetBiases"/>	
+		<Row ListType="Pyu PseudoYield Biases" LeaderType="TRAIT_PYU_JEC" System="PseudoYieldBiases"/>	
+		<Row ListType="Pyu Tag Biases" LeaderType="TRAIT_PYU_JEC" System="TagBiases"/>
+	</AiLists>
+	<AiFavoredItems>
+		<!-- Pyu -->
+
+	</AiFavoredItems>
+	<!-- City Strategies -->
+	<Strategies>
+	</Strategies>
+	<StrategyConditions>
+	</StrategyConditions>
+	<Strategy_Priorities>
+	</Strategy_Priorities>
+	<AiListTypes>
+	</AiListTypes>
+	<AiLists>
+	</AiLists>
+	<AiFavoredItems>
+	</AiFavoredItems>
+</Database>

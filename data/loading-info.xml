@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LoadingInfo_Ages>
+
+	</LoadingInfo_Ages>
+	<LoadingInfo_Civilizations>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_PUEBLOANS" Audio="VO_Loading_PUEBLOANS" Subtitle="LOC_LOADING_INTRO_PUEBLOANS" BackgroundImageHigh="fs://game/goggles_civ_PUEBLOANS/icons/lsbg_PUEBLOANS_1080" BackgroundImageLow="fs://game/goggles_civ_PUEBLOANS/icons/lsbg_PUEBLOANS_720" ForegroundImage="fs://game/goggles_civ_PUEBLOANS/civ_line_PUEBLOANS.png" Tip="LOC_LOADING_CIV_TIPS_TEXT_PUEBLOANS" />
+	</LoadingInfo_Civilizations>
+
+</Database>

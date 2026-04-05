@@ -1,0 +1,9 @@
+window.UnitPortraitVisualRemaps = {
+    ...(window.UnitPortraitVisualRemaps || {})
+}
+
+
+
+
+
+

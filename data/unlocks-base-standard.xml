@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_UNLOCK"/>
+	</Kinds>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_PUEBLOANS_JEC" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_PUEBLOANS_JEC"/>
+	</Unlocks>
+	<UnlockRewards>
+	</UnlockRewards>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_CIV_IS_PUEBLOANS" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<Row RequirementId="REQ_CIV_IS_PUEBLOANS" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_CIV_IS_PUEBLOANS" Name="CivilizationType" Value="CIVILIZATION_PUEBLOANS_JEC"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_CIV_IS_PUEBLOANS" RequirementId="REQ_CIV_IS_PUEBLOANS"/>
+	</RequirementSetRequirements>
+	<UnlockRequirements>
+		<Row UnlockType="UNLOCK_CIVILIZATION_SONGHAI" RequirementSetId="REQSET_CIV_IS_PUEBLOANS" Description="LOC_UNLOCK_PLAY_AS_PUEBLOANS_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_PUEBLOANS_SONGHAI_TOOLTIP"/>
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_PUEBLOANS_JEC" ConfigurationValue="CIVILIZATION_PUEBLOANS_JEC"/>
+	</UnlockConfigurationValues>
+</Database>

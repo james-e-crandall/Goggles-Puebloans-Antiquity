@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Database>
+    <IconDefinitions>
+        <!-- Civ Symbol-->
+        <Row>
+            <ID>CIVILIZATION_PUEBLOANS_JEC</ID>
+            <Path>fs://game/goggles_civ_puebloans/icons/civ_sym_puebloans_jec</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+			<ID>ICON_CIVILIZATION_PUEBLOANS_JEC</ID>
+            <Path>fs://game/goggles_civ_puebloans/icons/civ_sym_puebloans_jec</Path>
+		</Row>
+        <!-- Loadscreen -->
+		<Row>
+			<ID>CIVILIZATION_PUEBLOANS_JEC</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_puebloans/icons/lsbg_puebloans_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_PUEBLOANS_JEC</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_puebloans/icons/lsbg_puebloans_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+        <!-- Culture -->
+        <Row>
+            <ID>cult_puebloans_jec</ID>
+            <Path>fs://game/goggles_civ_puebloans/icons/buildicon_kiva_jec.png</Path>
+        </Row> 
+        <!-- Building -->
+		<Row>
+			<ID>BUILDING_KIVA_JEC</ID>
+			<Path>fs://game/goggles_civ_puebloans/icons/buildicon_kiva_jec.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_GREAT_HOUSE_JEC</ID>
+			<Path>fs://game/goggles_civ_puebloans/icons/buildicon_great_house_jec.png</Path>
+		</Row>  
+        <!-- wonder -->
+		<Row>
+			<ID>WONDER_PUEBLOANS_JEC</ID>
+			<Path>fs://game/goggles_civ_puebloans/icons/wondericon_pueblo.png</Path>
+		</Row>
+
+        <!-- UU AND UI -->
+
+    </IconDefinitions>
+</Database>

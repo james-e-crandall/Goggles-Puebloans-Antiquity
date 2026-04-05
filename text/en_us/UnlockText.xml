@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_PUEBLOANS_DESCRIPTION">
+			<Text>Play as the [B]PYU[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_PUEBLOANS_DAI_VIET_TOOLTIP">
+			<Text>[B]Pyu[/B] was from the same continent as [B]Dai Viet[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_ASHOKA_PUEBLOANS_TOOLTIP">
+			<Text>[B]Ashoka[/B] was from the same continent as [B]Pyu[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_PUEBLOANS_TOOLTIP">
+			<Text>[B]Trung Trac[/B] was from the same continent as [B]Pyu[/B].</Text>
+		</Row>
+	</EnglishText>
+</Database>

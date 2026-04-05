@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_TREE_CIVICS_AQ_PUEBLOANS_JEC_NAME">
+			<Text>Wagadu Civics</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_NAME">
+			<Text>Bambouk</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_DESCRIPTION">
+			<Text>x y z</Text>
+		</Row>
+		<!-- Modifiers -->
+
+		<!-- NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_QUOTE">
+			<Text>Annallja Tu Bari was the daughter of a prince.  Everyone who saw her was impressed with her tremendous beauty and wisdom.  Many noble men sought to marry her, but she always demanded that each would do something that they would not be willing to do.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_QUOTE_AUTHOR">
+			<Text>Samba Gana</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_NAME">
+			<Text>Dinar</Text>
+		</Row>
+
+
+		<!-- traditions -->
+
+
+		<!-- NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_NAME">
+			<Text>Ghana </Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_DESCRIPTION">
+			<Text>.</Text>
+		</Row>
+		<!-- Modifiers -->
+
+		<!-- traditions -->
+
+
+		<!-- NODE_CIVIC_AQ_PUEBLOANS_KADU -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_NAME">
+			<Text>Kwame Nkrumah</Text>
+		</Row>
+		<Row Tag="LOCNODE_CIVIC_AQ_PUEBLOANS_KADU_DESCRIPTION">
+			<Text>Access to Trans-Saharan Trader</Text>
+		</Row>
+		<!-- traditions -->
+
+
+		<!-- NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_QUOTE">
+			<Text>Bringing wealth to family</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_QUOTE_AUTHOR">
+			<Text>Child's Name</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_NAME">
+			<Text>Kaya Maghan (king of gold)</Text>
+		</Row>
+		
+		<!-- traditions -->
+
+
+	</EnglishText>
+</Database>

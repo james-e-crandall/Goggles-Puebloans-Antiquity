@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Leaders>
+	</Leaders>
+	<LeaderItems>
+
+	</LeaderItems>
+	<LeaderTags>
+
+	</LeaderTags>
+	<LeaderQuotes>
+
+	</LeaderQuotes>
+	<LeaderCivilizationBias>
+
+	</LeaderCivilizationBias>
+	<Civilizations>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CivilizationName="LOC_CIVILIZATION_PUEBLOANS_JEC_NAME" CivilizationFullName="LOC_CIVILIZATION_PUEBLOANS_JEC_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_PUEBLOANS_JEC_DESCRIPTION" CivilizationIcon="civ_sym_PUEBLOANS_jec.png"/>
+	</Civilizations>
+	<CivilizationItems>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" Type="TRAIT_PUEBLOANS_JEC_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME" Description="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_DESCRIPTION"/>
+		
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" Type="BUILDING_BAW_BAW_GYI_PAYA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_NAME" Description="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_DESCRIPTION" Icon="ICON_BUILDING_BAW_BAW_GYI_PAYA_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" Type="BUILDING_KHIN_BA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_KHIN_BA_JEC_NAME" Description="LOC_BUILDING_KHIN_BA_JEC_DESCRIPTION" Icon="ICON_BUILDING_KHIN_BA_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" Type="QUARTER_PAYAHTAUNG_JEC" Kind="KIND_QUARTER" Name="LOC_QUARTER_PAYAHTAUNG_JEC_NAME" Description="LOC_QUARTER_PAYAHTAUNG_JEC_DESCRIPTION" Icon="city_uniquequarter"/>
+
+	</CivilizationItems>
+	<CivilizationTags>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TagType="TAG_TRAIT_POLITICAL"/>
+	</CivilizationTags>
+	<LeaderCivilizationBias>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_ASHOKA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_ASHOKA_PUEBLOANS_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PUEBLOANS_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_TRUNG_TRAC" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_PUEBLOANS_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+
+	</LeaderCivilizationBias>
+	<CivilizationUnlocks>
+		
+	</CivilizationUnlocks>
+	<LeaderUnlocks>
+
+	</LeaderUnlocks>
+	<Mementos>
+
+	</Mementos>
+</Database>

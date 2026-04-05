@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_NAME">
+			<Text>Bawbawgyi Pagoda</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_DESCRIPTION">
+			<Text>{LOC_WONDER_BAWHAWGYI_PAGODA_TOOLTIP}</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_TOOLTIP">
+			<Text>Has a Great Work slot and generates a free Codex. Additional Happiness for each Great Work in this Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_BAWHAWGYI_PAGODA">
+			<Text>What we take for self are only nāma and rūpa which arise and fall away.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_BAWHAWGYI_PAGODA">
+			<Text>Khandha Vibhaṅga</Text>
+		</Row>
+
+    </EnglishText>
+</Database>

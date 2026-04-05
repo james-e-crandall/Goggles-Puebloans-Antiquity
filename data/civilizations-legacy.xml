@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_PUEBLOANS_JEC" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_PUEBLOANS_JEC" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" Name="LOC_CIVILIZATION_PUEBLOANS_JEC_NAME" FullName="LOC_CIVILIZATION_PUEBLOANS_JEC_FULLNAME" Adjective="LOC_CIVILIZATION_PUEBLOANS_JEC_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_PUEBLOANS_JEC"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_PUEBLOANS_JEC" InternalOnly="true"/>
+	</Traits>
+	<LegacyLeaderCivPriorities>
+		<Row Leader="LEADER_ASHOKA" CivilizationType="CIVILIZATION_PUEBLOANS_JEC"/>
+		<Row Leader="LEADER_ASHOKA_ALT" CivilizationType="CIVILIZATION_PUEBLOANS_JEC"/>
+		<Row Leader="LEADER_TRUNG_TRAC" CivilizationType="CIVILIZATION_PUEBLOANS_JEC"/>
+	</LegacyLeaderCivPriorities>
+</Database>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Civ Unique Military -->
+
+		<!-- Unique Abilities -->
+
+	</Types>
+	<Units>
+
+	</Units>
+	<Unit_Stats>
+
+	</Unit_Stats>
+	<Unit_Costs>
+
+	</Unit_Costs>
+	<UnitUpgrades>
+
+	</UnitUpgrades>
+	<UnitReplaces>
+
+	</UnitReplaces>
+	<Unit_TransitionRetains>
+	</Unit_TransitionRetains>
+	<AiUnitEfficiencyBonuses>
+	</AiUnitEfficiencyBonuses>
+	<Tags>
+		<!-- Civ Unique Military -->
+
+	</Tags>
+	<TypeTags>
+
+	</TypeTags>
+	<UnitClass_Abilities>
+
+	</UnitClass_Abilities>
+	<UnitAbilities>
+
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+
+	</UnitAbilityModifiers>
+	<ChargedUnitAbilities>
+	</ChargedUnitAbilities>
+	<Unit_Advisories>
+
+	</Unit_Advisories>
+</Database>
