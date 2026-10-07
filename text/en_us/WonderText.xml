@@ -2,19 +2,19 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_NAME">
-			<Text>Bawbawgyi Pagoda</Text>
+			<Text>Cliff Palace</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_DESCRIPTION">
 			<Text>{LOC_WONDER_BAWHAWGYI_PAGODA_TOOLTIP}</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_BAWHAWGYI_PAGODA_TOOLTIP">
-			<Text>Has a Great Work slot and generates a free Codex. Additional Happiness for each Great Work in this Settlement.</Text>
+			<Text>Must be built on a desert tile adjacent to or on a cliff. All desert tiles in this settlement provide +2 [icon:YIELD_CULTURE] Culture. Counts as a fortified district.</Text>
 		</Row>
 		<Row Tag="LOC_QUOTE_WONDER_BAWHAWGYI_PAGODA">
-			<Text>What we take for self are only nāma and rūpa which arise and fall away.</Text>
+			<Text>The cliff is not a barrier; it is a place to gather the sky.</Text>
 		</Row>
 		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_BAWHAWGYI_PAGODA">
-			<Text>Khandha Vibhaṅga</Text>
+			<Text>Pueblo Tradition</Text>
 		</Row>
 
     </EnglishText>

@@ -2,10 +2,13 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_MODULE_PUEBLOANS_NAME">
-			<Text>Pyu</Text>
+			<Text>Puebloans</Text>
 		</Row>
 		<Row Tag="LOC_MODULE_PUEBLOANS_DESCRIPTION">
-			<Text>Pyu Antiquity Age</Text>
+			<Text>Puebloans Antiquity Age</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_PUEBLOAN_DESCRIPTION">
+			<Text>Puebloans Antiquity Age</Text>
 		</Row>
 		<Row Tag="LOC_AUTHORS_JEC">
 			<Text>The_Goggles_Do_Nothing</Text>

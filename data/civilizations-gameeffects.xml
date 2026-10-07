@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
-	<!-- Attributes -->
-	<Modifier id="TRAIT_MOD_THAYEKHITTAYA_TOWN_UPGRADE_DISCOUNT" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TOWN_UPGRADE_DISCOUNT">
+	<Modifier id="MOD_PUEBLOANS_ABILITY_CULTURE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
 		<SubjectRequirements>
-			<Requirement type="REQ_PLOT_ADJACENT_NAVIGABLE_RIVER"/>
-			<Requirement type="REQUIREMENT_PLOT_DISTRICT_CLASS">
-				<Argument name="DistrictClass">CITYCENTER</Argument>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
 			</Requirement>
 		</SubjectRequirements>
-		<Argument name="Percent">100</Argument>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">1</Argument>
 		<Argument name="Tooltip">LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME</Argument>
-		<String context="Description">LOC_CIVILIZATION_PUEBLOANS_JEC_DESCRIPTION</String>
 	</Modifier>
 
-	<!-- Civ Standard -->
+	<Modifier id="MOD_PUEBLOANS_ROUGH_DESERT_DOUBLE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">1</Argument>
+		<Argument name="Percent">100</Argument>
+		<Argument name="Tooltip">LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME</Argument>
+	</Modifier>
+
+	<Modifier id="MOD_PUEBLOANS_CITY_FOUNDING_DESERT_CULTURE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">5</Argument>
+		<Argument name="Tooltip">LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME</Argument>
+	</Modifier>
+
 	<Modifier id="MOD_REVEAL_CIV_CULTURE_TREE_PUEBLOANS_JEC" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_REVEAL_CULTURE_TREE">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
@@ -23,7 +43,7 @@
 		<Argument name="ProgressionTreeType">TREE_CIVICS_AQ_PUEBLOANS_JEC</Argument>
 		<String context="Description">LOC_MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_PUEBLOANS_DESCRIPTION</String>
 	</Modifier>
-	
+
 	<Modifier id="MOD_CIV_WONDER_PRODUCTION_PUEBLOANS_JEC" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_FAVORED_WONDER_PRODUCTION">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">

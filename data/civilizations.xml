@@ -16,7 +16,7 @@
 		<Row TraitType="TRAIT_PUEBLOANS_JEC_ABILITY" Name="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME" Description="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_PUEBLOANS_JEC_ABILITY" ModifierId="TRAIT_MOD_THAYEKHITTAYA_TOWN_UPGRADE_DISCOUNT"/>				
+		<Row TraitType="TRAIT_PUEBLOANS_JEC_ABILITY" ModifierId="MOD_PUEBLOANS_ABILITY_CULTURE"/>
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TraitType="TRAIT_ANTIQUITY_CIV"/>
@@ -31,7 +31,6 @@
 		<Row Leader="LEADER_TRUNG_TRAC" Civilization="CIVILIZATION_PUEBLOANS_JEC" Priority="2"/>
 	</LeaderCivPriorities>
 	<CityNames>
-		<!--PYU-->
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC1"/>
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC2"/>
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC3"/>
@@ -50,10 +49,11 @@
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" CityName="LOC_CITY_NAME_PUEBLOANS_JEC16"/>
 	</CityNames>
 	<StartBiasBiomes>
-		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BiomeType="BIOME_TROPICAL" Score="20"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BiomeType="BIOME_DESERT" Score="20"/>
 	</StartBiasBiomes>
 	<StartBiasTerrains>
-		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="20"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TerrainType="TERRAIN_DESERT" Score="20"/>
+		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" TerrainType="TERRAIN_HILL" Score="15"/>
 	</StartBiasTerrains>
 	<VisArt_CivilizationBuildingCultures>
 		<Row CivilizationType="CIVILIZATION_PUEBLOANS_JEC" BuildingCulture="BUILDING_CULTURE_PAC"/>

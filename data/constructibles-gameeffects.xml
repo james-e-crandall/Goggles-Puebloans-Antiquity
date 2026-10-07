@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
-
-
-
-	<Modifier id="MOD_THAYEKHITTAYA_QUARTER_ADJACENCY" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_ADJACENCY">
+	<Modifier id="MOD_PUEBLO_KIVA_CLIFF_CULTURE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
 		<SubjectRequirements>
-			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
-				<Argument name="UniqueQuarterType">QUARTER_PAYAHTAUNG_JEC</Argument>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
 			</Requirement>
 		</SubjectRequirements>
-		<Argument name="ConstructibleAdjacency">PayahtaungQuarterCulture, KhinBaQuarterScience</Argument>
-		<String context="Description">LOC_MOD_ZHI_SCIENCE_BUILDING_URBAN_ADJACENCY_DESCRIPTION</String>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">2</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_KIVA_JEC_NAME</Argument>
 	</Modifier>
 
+	<Modifier id="MOD_PUEBLO_GREAT_HOUSE_CLIFF_FOOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+		<Argument name="Amount">3</Argument>
+		<Argument name="Tooltip">LOC_BUILDING_GREAT_HOUSE_JEC_NAME</Argument>
+	</Modifier>
 
-
-
-
+	<Modifier id="MOD_PUEBLO_DISTRICT_CLIFF_GOLD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_PUEBLOANS_JEC</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount">5</Argument>
+		<Argument name="Tooltip">LOC_DISTRICT_PUEBLO_JEC_NAME</Argument>
+	</Modifier>
 </GameEffects>

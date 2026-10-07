@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<!--PYU-->
+		<!--PUEBLOANS-->
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC1">
-			<Text>Sri Ksetra</Text>
+			<Text>Chaco</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC2">
-			<Text>Beikthano</Text>
+			<Text>Mesa Verde</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC3">
-			<Text>Maingmaw</Text>
+			<Text>Acoma</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC4">
-			<Text>Binnaka</Text>
+			<Text>Hovenweep</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC5">
-			<Text>Hanlin</Text>
+			<Text>Taos</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC6">
-			<Text>Halin</Text>
+			<Text>Zuni</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC7">
-			<Text>Hmainmaw</Text>
+			<Text>Cibola</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC8">
-			<Text>Tagaung</Text>
+			<Text>Hopi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC9">
-			<Text>Pinle</Text>
+			<Text>Shiprock</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC10">
-			<Text>Pinle Pyu</Text>
+			<Text>Monument Valley</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC11">
-			<Text>Mong Mao</Text>
+			<Text>Sandia</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC12">
-			<Text>Mongamo</Text>
+			<Text>El Malpais</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC13">
-			<Text>Halingyi</Text>
+			<Text>Tsankawi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC14">
-			<Text>Thaton</Text>
+			<Text>Jemez</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC15">
-			<Text>Kelasa</Text>
+			<Text>Albuquerque</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUEBLOANS_JEC16">
-			<Text>Bago </Text>
+			<Text>Cliffside</Text>
 		</Row>
 
 	</EnglishText>

@@ -2,13 +2,13 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_PUEBLOANS">
-			<Text>The major Pyu city-states were all located in the three main irrigated regions of Upper Burma: the Mu River Valley, the Kyaukse plains and Minbu region, around the confluence of the Irrawaddy and Chindwin Rivers. The millennium-old civilisation came crashing down in the 9th century when the city-states were destroyed by repeated invasions from the Kingdom of Nanzhao.</Text>
+			<Text>The Puebloans were a desert people of the North American Southwest, mastering the cliffs, canyons, and dry mesas of their homelands. Their towns were rooted in stone, adobe, and careful stewardship of scarce water.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INTRO_PUEBLOANS">
-			<Text>Due to greediness, men ran in the cycle of life... like a horse, the moon appeared and ran.</Text>
+			<Text>Stone and adobe withstand the desert; wisdom keeps the people steady.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_CIV_TIPS_TEXT_PUEBLOANS">
-			<Text>PYU gets trading going early and get bonuses to routes in the PYU civics tree.</Text>
+			<Text>Puebloans thrive in rough desert terrain and cliffside tiles, turning rock, water, and culture into strong, resilient cities.</Text>
 		</Row>
 	</EnglishText>
 </Database>

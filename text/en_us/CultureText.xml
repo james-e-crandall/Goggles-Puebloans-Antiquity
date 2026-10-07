@@ -2,82 +2,78 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_TREE_CIVICS_AQ_PUEBLOANS_JEC_NAME">
-			<Text>Wagadu Civics</Text>
+			<Text>Puebloan Civics</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+			<Text>Stone is the shelter of the people; desert is the teacher of patience.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
+			<Text>Pueblo Wisdom</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_NAME">
-			<Text>Bambouk</Text>
+			<Text>Basketmaker Culture</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_TAGAUNG_KINGDOM_DESCRIPTION">
-			<Text>x y z</Text>
+			<Text>Tier 1 civic rooted in desert stewardship and early communal culture.</Text>
 		</Row>
 		<!-- Modifiers -->
 
 		<!-- NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_QUOTE">
-			<Text>Annallja Tu Bari was the daughter of a prince.  Everyone who saw her was impressed with her tremendous beauty and wisdom.  Many noble men sought to marry her, but she always demanded that each would do something that they would not be willing to do.</Text>
+			<Text>Every ledge of stone becomes a home when the people know the land.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_QUOTE_AUTHOR">
-			<Text>Samba Gana</Text>
+			<Text>Cliff Dweller Saying</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_BRONZE_COUNTRY_NAME">
-			<Text>Dinar</Text>
+			<Text>Cliff Dwellers</Text>
 		</Row>
-
 
 		<!-- traditions -->
 
-
 		<!-- NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+			<Text>Roads through the desert carry more than goods; they carry stories.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
+			<Text>Chaco Trail</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_NAME">
-			<Text>Ghana </Text>
+			<Text>Chaco Road</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_FIELD_OF_FORTUNE_DESCRIPTION">
-			<Text>.</Text>
+			<Text>Roads on desert tiles yield +2 culture.</Text>
 		</Row>
 		<!-- Modifiers -->
 
 		<!-- traditions -->
 
-
 		<!-- NODE_CIVIC_AQ_PUEBLOANS_KADU -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+			<Text>We climb the rock to see farther than the valley.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
+			<Text>Sky City Tradition</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_NAME">
-			<Text>Kwame Nkrumah</Text>
+			<Text>Sky Cities</Text>
 		</Row>
-		<Row Tag="LOCNODE_CIVIC_AQ_PUEBLOANS_KADU_DESCRIPTION">
-			<Text>Access to Trans-Saharan Trader</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_KADU_DESCRIPTION">
+			<Text>Units receive a defensive bonus on rough tiles and tiles with cliffs.</Text>
 		</Row>
 		<!-- traditions -->
 
-
 		<!-- NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_QUOTE">
-			<Text>Bringing wealth to family</Text>
+			<Text>Clay and water build comfort; stone and labor build permanence.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_QUOTE_AUTHOR">
-			<Text>Child's Name</Text>
+			<Text>Adobe Tradition</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PUEBLOANS_THAMODDARIT_NAME">
-			<Text>Kaya Maghan (king of gold)</Text>
+			<Text>Adobe</Text>
 		</Row>
 		
 		<!-- traditions -->

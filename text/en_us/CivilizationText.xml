@@ -2,33 +2,32 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_CIVILIZATION_PUEBLOANS_JEC_NAME">
-			<Text>Pyu</Text>
+			<Text>Puebloans</Text>
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_PUEBLOANS_JEC_FULLNAME">
-			<Text>Pyu City-States</Text>
+			<Text>Puebloans</Text>
 		</Row>
 
 		<Row Tag="LOC_MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_PUEBLOANS_DESCRIPTION">
-			<Text>Pyu Antiquity Age Civilization</Text>
+			<Text>Puebloans Antiquity Age Civilization</Text>
 		</Row>
 
 		<!--Civilization Adjectives-->
 		<Row Tag="LOC_CIVILIZATION_PUEBLOANS_JEC_ADJECTIVE">
-			<Text>Pyu</Text>
+			<Text>Puebloan</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 
 		<!-- Ability-->
 		<Row Tag="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_NAME">
-			<Text>Thayekhittaya</Text>
+			<Text>People of the Cliffs</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PUEBLOANS_JEC_DESCRIPTION">
-			<Text>+100% [icon:YIELD_GOLD] Gold towards converting a [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Town[/TIP] adjacent to a Navigable River to a [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]City[/TIP].</Text>
+			<Text>Cultural, Economic. Starting Bias: Desert, cliffs. Rough terrain provides +1 [icon:YIELD_CULTURE] Culture. Rough desert provides double. Cliff tiles provide +1 [icon:YIELD_CULTURE] Culture to adjacent buildings.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_PUEBLOANS_JEC_ABILITY_DESCRIPTION">
-
-			<Text>[LIST][LI]+100% [icon:YIELD_GOLD] Gold towards converting a [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]Town[/TIP] adjacent to a Navigable River to a [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]City[/TIP].[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
+			<Text>[LIST][LI]Rough terrain provides +1 [icon:YIELD_CULTURE] Culture.[/LI][LI]Rough desert tiles provide double that benefit.[/LI][LI]Cliff tiles grant +1 [icon:YIELD_CULTURE] Culture to adjacent buildings.[/LI][LI]When a city is founded, gain 5 [icon:YIELD_CULTURE] Culture for every desert within three tiles of the city center.[/LI][/LIST]</Text>
 		</Row>
 
 	</EnglishText>

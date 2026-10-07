@@ -4,35 +4,35 @@
 		<!-- BUILDING -->
 		<!-- DOME_COMPLEX -->
 		<Row Tag="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_NAME">
-			<Text>BAW_BAW_GYI_PAYA</Text>
+			<Text>Kiva</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_DESCRIPTION">
-			<Text>+1[icon:YIELD_DIPLOMACY] Influence. +1[icon:YIELD_DIPLOMACY] Influence Adjacency for Quarters and Wonders. Wagadu Unique Influence Building. Ageless.</Text>
+			<Text>Culture base building. +2 [icon:YIELD_CULTURE] Culture. +1 [icon:YIELD_CULTURE] Culture for adjacent quarters. +2 [icon:YIELD_CULTURE] Culture if built on a tile containing or bordering a cliff.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_TOOLTIP">
-			<Text>Wagadu Unique Influence Building. Ageless.</Text>
+			<Text>Puebloan culture building tied to cliffs and communal gathering.</Text>
 		</Row>
 		<!-- SACRED_GROVE -->
 		<Row Tag="LOC_BUILDING_KHIN_BA_JEC_NAME">
-			<Text>KHIN_BA</Text>
+			<Text>Great House</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_KHIN_BA_JEC_DESCRIPTION">
-			<Text>+3[icon:YIELD_HAPPINESS] Happiness. +1[icon:YIELD_CULTURE] Culture adjacency for Wonders. Wagadu Unique Happiness Building. Ageless.</Text>
+			<Text>Food base building. +3 [icon:YIELD_FOOD] Food. +3 [icon:YIELD_FOOD] Food if on a tile containing or bordering a cliff.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_KHIN_BA_JEC_TOOLTIP">
-			<Text>Wagadu Unique Happiness Building. Adds Happiness to adjacent Quarters. Ageless.</Text>
+			<Text>Puebloan food building for thriving in dry, rocky country.</Text>
 		</Row>
 		<!-- QUARTER -->
 		<!-- OUAGADOU -->
 		<Row Tag="LOC_QUARTER_PAYAHTAUNG_JEC_NAME">
-			<Text>PAYAHTAUNG</Text>
+			<Text>Pueblo</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_QUARTER_PAYAHTAUNG_JEC_DESCRIPTION">
-			<Text>Wagadu Unique Quarter. Created by constructing the Dome Ka Yoroba and Yiri Senuman in the same District. +2 Resource Capacity this city.</Text>
+			<Text>Acts as a fortified district that must be conquered. +5 [icon:YIELD_GOLD] Gold if on a tile containing or bordering a cliff.</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_PAYAHTAUNG_JEC_TOOLTIP">
-			<Text>+1[icon:YIELD_GOLD] Gold on trade routes from this city.</Text>
+			<Text>A fortified Pueblo district rooted in defensive desert settlement.</Text>
 		</Row>
 
 	</EnglishText>
